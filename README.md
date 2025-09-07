@@ -4,12 +4,12 @@
 
 <h3>👨‍💻 About Me</h3>
 <p>
-I am a <strong>Software Developer</strong> with a solid academic background and strong hands-on training in software development and ERP systems.  
-My expertise lies in <strong>C#</strong>, <strong>Flutter & Dart</strong>, and <strong>Java</strong>, complemented by experience in mobile app development, SAP systems, and modern software tools.  
+I am a <strong>Flutter Developer</strong> with a strong academic background and hands-on training in building mobile applications.  
+My expertise lies in <strong>Flutter & Dart</strong>, with a strong focus on <strong>BLoC & Cubit state management</strong> and <strong>MVVM architecture</strong>.  
 </p>
 
 <p>
-I am passionate about continuous learning, problem-solving, and developing innovative solutions that combine strong technical knowledge with creativity and adaptability.  
+I am passionate about creating scalable, maintainable, and user-friendly apps using Flutter. I continuously explore advanced Flutter techniques and best practices to deliver high-performance mobile solutions.  
 </p>
 
 ---
@@ -19,7 +19,7 @@ I am passionate about continuous learning, problem-solving, and developing innov
 <strong>Bachelor’s Degree in Computer Science</strong> (2020 – 2024)  
 American University of Madaba, Jordan | GPA: 71.8/100  
 <br/>
-Graduation Project: <em>Heartful Care Application</em> – A mobile healthcare app built with Flutter, Dart, and Firebase.
+Graduation Project: <em>Heartful Care Application</em> – A mobile healthcare app built with Flutter, Dart, Firebase, and MVVM architecture.  
 </p>
 
 <p>
@@ -30,39 +30,49 @@ Graduation Project: <em>Heartful Care Application</em> – A mobile healthcare a
 
 <h3>💼 Experience</h3>
 <p>
+<strong>Mobile Developer</strong> (Apr 2025 – Present) – MUJEER, Amman, Jordan  
+</p>
+
+- Developing and maintaining enterprise-grade mobile apps with Flutter  
+- Implementing **BLoC/Cubit state management** and **MVVM architecture**  
+- Integrating advanced features including **AI** and **real-time services**  
+- Focused on scalability, performance, and delivering business value  
+
+<p>
 <strong>SAP Developer Training</strong> (Nov 2024 – Dec 2024) – SKYtech SAP, Amman  
 </p>
 
-- Hands-on training in **C# .NET** and **SAP functional modules**  
-- Worked on ERP development: finance, planning, and HR modules  
-- Developed, tested, and deployed SAP solutions in team-based projects  
-- Optimized SAP workflows for performance and scalability  
+- Gained problem-solving and project development experience with ERP systems  
+- Strengthened team collaboration and system optimization skills  
+- Applied concepts of scalability and performance to real-world workflows  
 
 ---
 
 <h3>📜 Certifications</h3>
 
-- Complete Java Course (80 hours) – AlAzimah Academy  
-- Web Development (Frontend + Backend) – AlAzimah Academy  
-- Flutter Course (30 hours) – Pioneers Academy  
 - Advanced Flutter Course (50 hours) – Pioneers Academy  
+- Flutter Course (30 hours) – Pioneers Academy  
+- Complete Java Course (80 hours) – AlAzimah Academy  
 - Cultural Exchange Through Digital Designs (80 hours) – MIT  
 
 ---
 
 <h3>🛠 Skills</h3>
 
-**Programming & Development**  
-C# · Flutter & Dart · Java · Python · HTML · CSS · JavaScript  
+**Mobile Development**  
+Flutter · Dart · Firebase · MVVM Architecture  
 
-**Database & ERP**  
-MySQL · Firebase · SAP ERP systems  
+**State Management**  
+BLoC · Cubit  
 
-**Tools & Platforms**  
-Git/GitHub · Visual Studio · IntelliJ IDEA · MS Office Suite  
+**Programming**  
+C# · Java · Python  
 
-**Other Skills**  
-Problem-Solving · Debugging · Teamwork · Project Management · Creativity · Communication  
+**Tools**  
+Git/GitHub · Visual Studio · IntelliJ IDEA  
+
+**Core Strengths**  
+Clean Architecture · Problem-Solving · Debugging · Creativity · Collaboration · Project Management  
 
 ---
 
