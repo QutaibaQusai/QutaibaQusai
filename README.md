@@ -64,10 +64,10 @@ Flutter · Dart · Firebase · MVVM Architecture
 BLoC · Cubit  
 
 **Programming**  
-C# · Java · Python  
+C# · Java
 
 **Tools**  
-Git/GitHub · Visual Studio · IntelliJ IDEA  
+Git/GitHub · Visual Studio
 
 **Core Strengths**  
 Clean Architecture · Problem-Solving · Debugging · Creativity · Collaboration · Project Management  
