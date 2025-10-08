@@ -22,9 +22,7 @@ American University of Madaba, Jordan | GPA: 71.8/100
 Graduation Project: <em>Heartful Care Application</em> – A mobile healthcare app built with Flutter, Dart, Firebase, and MVVM architecture.  
 </p>
 
-<p>
-<strong>High School</strong> – Prince Mohammed School, Zarqa (2019)  
-</p>
+
 
 ---
 
