@@ -17,7 +17,7 @@ I am passionate about creating scalable, maintainable, and user-friendly apps us
 <h3>🎓 Education</h3>
 <p>
 <strong>Bachelor’s Degree in Computer Science</strong> (2020 – 2024)  
-American University of Madaba, Jordan | GPA: 71.8/100  
+American University of Madaba, Jordan 
 <br/>
 Graduation Project: <em>Heartful Care Application</em> – A mobile healthcare app built with Flutter, Dart, Firebase, and MVVM architecture.  
 </p>
