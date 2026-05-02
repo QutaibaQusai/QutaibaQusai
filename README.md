@@ -1,78 +1,71 @@
 <div align="center">
-  <h1>
-    Hi, I'm Qutaiba Makahleh
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave" />
-  </h1>
+  <h1>Qutaiba Makahleh</h1>
+  <p><strong>Flutter Mobile Developer</strong> building clean, scalable, product-focused mobile apps.</p>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=720&lines=Flutter+Mobile+Developer;Dart+%26+Flutter+Specialist;Clean+Architecture+%7C+BLoC+%7C+Cubit;Product-focused+mobile+apps;Firebase+%26+real-time+integrations"
-    alt="Flutter Mobile Developer typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=02569B&center=true&vCenter=true&width=760&lines=Flutter+%26+Dart+Specialist;Clean+Architecture+%7C+BLoC+%7C+Cubit;Firebase+%7C+REST+APIs+%7C+Real-time+features;Product-minded+mobile+engineering"
+    alt="Flutter developer typing animation"
   />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
 </div>
 
 ---
 
-### 👨‍💻 About
+### About
 
-I am a **Flutter Mobile Developer** focused on building clean, scalable, and user-friendly mobile applications with **Flutter**, **Dart**, **BLoC/Cubit**, **MVVM**, and **Firebase**.
+I build Flutter applications with a focus on **maintainable architecture**, **smooth user experience**, and **reliable delivery**. My day-to-day work is centered around Flutter, Dart, BLoC/Cubit, MVVM, Firebase, REST APIs, and enterprise mobile workflows.
 
-I care about production-quality mobile engineering: maintainable architecture, smooth UI, reliable integrations, readable code, and features that solve real product problems.
+I care about code that can survive real product growth: clear feature boundaries, predictable state, reusable widgets, practical error handling, and UI that feels good to use.
 
 ---
 
-### 🚀 What I Focus On
+### Now
 
-| **Pillar** | **How I Build** |
+| **Working on** | **Focus** |
 | :--- | :--- |
-| **Mobile Architecture** | Clean feature structure, separation of concerns, reusable widgets, and scalable state management. |
-| **Flutter UI/UX** | Responsive screens, polished interactions, consistent components, and user-first app flows. |
-| **State Management** | Practical use of `BLoC`, `Cubit`, and `MVVM` patterns for predictable app behavior. |
-| **Integrations** | REST APIs, Firebase, real-time services, AI-enabled features, and reliable data handling. |
-| **Product Quality** | Performance, debugging, error states, maintainability, and business-focused delivery. |
+| **Mobile Developer at MUJEER** | Enterprise Flutter apps, real-time services, AI-enabled features, and scalable product workflows. |
+| **Flutter Architecture** | Clean structure, SOLID principles, BLoC/Cubit state management, and maintainable feature modules. |
+| **Product Quality** | Responsive UI, performance, debugging, empty/error states, and user-first implementation details. |
 
 ---
 
-### 🛠️ Tech Stack
+### Engineering Profile
+
+| **Area** | **What I Bring** |
+| :--- | :--- |
+| **Mobile Core** | Flutter, Dart, Android, iOS-ready mobile delivery. |
+| **Architecture** | Clean Architecture, MVVM, separation of concerns, reusable UI layers. |
+| **State Management** | BLoC, Cubit, predictable app flows, testable business logic. |
+| **Integrations** | Firebase, REST APIs, real-time data, AI-powered app capabilities. |
+| **UX Engineering** | Polished screens, consistent components, loading/error states, responsive layouts. |
+
+---
+
+### Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github&theme=light" alt="Flutter, Dart, Firebase, Android Studio, VS Code, Git, and GitHub icons" />
 </div>
 
-<br>
+---
 
-| **Area** | **Tools & Practices** |
+### Selected Work Themes
+
+| **Theme** | **Impact** |
 | :--- | :--- |
-| **Mobile** | `Flutter`, `Dart`, `Android`, `iOS` |
-| **Architecture** | `Clean Architecture`, `MVVM`, `SOLID`, `Reusable Widgets` |
-| **State** | `BLoC`, `Cubit` |
-| **Backend & Data** | `Firebase`, `REST APIs`, `Real-Time Services` |
-| **Quality** | `UI/UX`, `Performance`, `Debugging`, `Error Handling` |
-| **Workflow** | `Git`, `GitHub`, `Agile Collaboration` |
+| **Enterprise Flutter Development** | Delivering production mobile features for business workflows with maintainability and scalability in mind. |
+| **Healthcare Mobile Experience** | Built **Heartful Care**, a Flutter healthcare application using Dart, Firebase, and MVVM architecture. |
+| **AI & Real-Time Features** | Building responsive mobile experiences powered by intelligent features and live data updates. |
 
 ---
 
-### 💼 Current Work
-
-**Mobile Developer at MUJEER**
-
-Building and maintaining enterprise-grade Flutter applications with a focus on scalability, clean architecture, state management, real-time services, AI-enabled features, and business value.
-
----
-
-### 📌 Selected Work Themes
-
-**Enterprise Flutter Development**  
-Delivering production mobile features for real business workflows, with attention to performance, maintainability, and long-term scalability.
-
-**Healthcare Mobile Experience**  
-Built **Heartful Care**, a Flutter healthcare application using Dart, Firebase, and MVVM architecture.
-
-**AI & Real-Time Features**  
-Working with modern app capabilities that improve user workflows through intelligent and responsive mobile experiences.
-
----
-
-### 📊 GitHub Metrics
+### GitHub Metrics
 
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=QutaibaQusai&theme=transparent" alt="QutaibaQusai GitHub stats" />
@@ -82,7 +75,7 @@ Working with modern app capabilities that improve user workflows through intelli
 
 ---
 
-### 🤝 Connect
+### Connect
 
 <div align="center">
   <a href="https://github.com/QutaibaQusai" target="_blank">
@@ -94,7 +87,4 @@ Working with modern app capabilities that improve user workflows through intelli
   <a href="mailto:qutaiba.makahleh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-qutaiba.makahleh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Qutaiba" />
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=QutaibaQusai&style=for-the-badge&color=02569B" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/QutaibaQusai?style=for-the-badge&logo=github&label=Followers&color=02569B" alt="GitHub followers" />
 </div>
