@@ -1,93 +1,110 @@
-<h2 align="left">Hi, I'm Qutaiba Makahleh 👋</h2>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"> Qutaiba Makahleh
 
----
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&width=520&lines=Flutter+Mobile+Developer;Dart+%26+Flutter+Specialist;BLoC+%26+Cubit+State+Management;Clean+Architecture+Focused;Product-Minded+UI%2FUX+Engineer" alt="Typing SVG" />
+</div>
 
-<h3>👨‍💻 About Me</h3>
-<p>
-I am a <strong>Flutter Developer</strong> with a strong academic background and hands-on training in building mobile applications.  
-My expertise lies in <strong>Flutter & Dart</strong>, with a strong focus on <strong>BLoC & Cubit state management</strong> and <strong>MVVM architecture</strong>.  
-</p>
-
-<p>
-I am passionate about creating scalable, maintainable, and user-friendly apps using Flutter. I continuously explore advanced Flutter techniques and best practices to deliver high-performance mobile solutions.  
-</p>
-
----
-
-<h3>🎓 Education</h3>
-<p>
-<strong>Bachelor’s Degree in Computer Science</strong> (2020 – 2024)  
-American University of Madaba, Jordan 
-<br/>
-Graduation Project: <em>Heartful Care Application</em> – A mobile healthcare app built with Flutter, Dart, Firebase, and MVVM architecture.  
-</p>
-
-
-
----
-
-<h3>💼 Experience</h3>
-<p>
-<strong>Mobile Developer</strong> (Apr 2025 – Present) – MUJEER, Amman, Jordan  
-</p>
-
-- Developing and maintaining enterprise-grade mobile apps with Flutter  
-- Implementing **BLoC/Cubit state management** and **MVVM architecture**  
-- Integrating advanced features including **AI** and **real-time services**  
-- Focused on scalability, performance, and delivering business value  
-
-<p>
-<strong>SAP Developer Training</strong> (Nov 2024 – Dec 2024) – SKYtech SAP, Amman  
-</p>
-
-- Gained problem-solving and project development experience with ERP systems  
-- Strengthened team collaboration and system optimization skills  
-- Applied concepts of scalability and performance to real-world workflows  
-
----
-
-<h3>📜 Certifications</h3>
-
-- Advanced Flutter Course (50 hours) – Pioneers Academy  
-- Flutter Course (30 hours) – Pioneers Academy  
-- Complete Java Course (80 hours) – AlAzimah Academy  
-- Cultural Exchange Through Digital Designs (80 hours) – MIT  
-
----
-
-<h3>🛠 Skills</h3>
-
-**Mobile Development**  
-Flutter · Dart · Firebase · MVVM Architecture  
-
-**State Management**  
-BLoC · Cubit  
-
-**Programming**  
-C# · Java
-
-**Tools**  
-Git/GitHub · Visual Studio
-
-**Core Strengths**  
-Clean Architecture · Problem-Solving · Debugging · Creativity · Collaboration · Project Management  
-
----
-
-<h3>🌐 Languages</h3>
-
-- Arabic: Native  
-- English: Very Good  
-- German: Intermediate (B1)  
-
----
-
-<h3>🌍 Connect With Me</h3>
-<p align="left">
+<div align="left">
+  <a href="https://github.com/QutaibaQusai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-QutaibaQusai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/qutaiba-makahleh-142341275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Qutaiba%20Makahleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:qutaiba.makahleh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-qutaiba.makahleh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+---
+
+### 🚀 Professional Summary
+
+I am a **Flutter Mobile Developer** focused on building clean, scalable, and user-friendly mobile applications with **Flutter**, **Dart**, **BLoC/Cubit**, **MVVM**, and **Firebase**.
+
+My work is centered on production-quality mobile engineering: maintainable architecture, smooth user experiences, reliable integrations, readable code, and features that solve real product problems.
+
+---
+
+### 🧩 Engineering Focus
+
+<details>
+<summary><b>🏗️ Clean Mobile Architecture</b></summary>
+<br>
+
+- Building Flutter apps with clear separation between UI, state, domain, and data layers.
+- Applying **BLoC/Cubit**, **MVVM**, dependency management, and reusable feature structure.
+- Keeping code testable, readable, and easy to extend as the app grows.
+
+</details>
+
+<details>
+<summary><b>📱 Product-Focused Flutter UI</b></summary>
+<br>
+
+- Creating responsive, polished, and user-friendly mobile interfaces.
+- Translating product requirements into practical app flows and reusable widgets.
+- Focusing on performance, accessibility, interaction quality, and consistent design.
+
+</details>
+
+<details>
+<summary><b>🔌 Reliable App Integrations</b></summary>
+<br>
+
+- Integrating REST APIs, Firebase services, real-time features, and AI-powered capabilities.
+- Handling loading, error, empty, and offline-aware states with a user-first mindset.
+- Building features with security-conscious API handling and maintainable data models.
+
+</details>
+
+---
+
+### 💼 Current Work
+
+**Mobile Developer at MUJEER**  
+Building and maintaining enterprise-grade Flutter applications with a focus on scalability, clean architecture, state management, real-time services, AI-enabled features, and business value.
+
+---
+
+### 🧠 Technical Ecosystem
+
+| **Area** | **Tools & Practices** |
+| :--- | :--- |
+| **Mobile** | `Flutter`, `Dart`, `Android`, `iOS` |
+| **State Management** | `BLoC`, `Cubit` |
+| **Architecture** | `Clean Architecture`, `MVVM`, `SOLID`, `Reusable Widgets` |
+| **Backend & Data** | `Firebase`, `REST APIs`, `Real-Time Services` |
+| **Product Quality** | `UI/UX`, `Performance`, `Debugging`, `Error Handling` |
+| **Workflow** | `Git`, `GitHub`, `Agile Collaboration` |
+
+---
+
+### 📌 Selected Work Themes
+
+**Enterprise Flutter Development**  
+Delivering production mobile features for real business workflows, with attention to performance, maintainability, and long-term scalability.
+
+**Healthcare Mobile Experience**  
+Built **Heartful Care**, a Flutter healthcare application using Dart, Firebase, and MVVM architecture.
+
+**AI & Real-Time Features**  
+Working with modern app capabilities that improve user workflows through intelligent and responsive mobile experiences.
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QutaibaQusai&show_icons=true&theme=transparent&hide_border=true" alt="Qutaiba's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QutaibaQusai&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QutaibaQusai&theme=transparent&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%" alt="footer" />
 </p>
