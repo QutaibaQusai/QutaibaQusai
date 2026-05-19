@@ -1,67 +1,74 @@
 <div align="center">
-  <h1>Qutaiba Makahleh</h1>
-  <p><strong>Flutter Mobile Developer</strong> building clean, scalable, product-focused mobile apps.</p>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=02569B&center=true&vCenter=true&width=760&lines=Flutter+%26+Dart+Specialist;Clean+Architecture+%7C+BLoC+%7C+Cubit;Firebase+%7C+REST+APIs+%7C+Real-time+features;Product-minded+mobile+engineering"
-    alt="Flutter developer typing animation"
-  />
+# Qutaiba Makahleh
+### Flutter Mobile Engineer
 
-  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Engineer+%F0%9F%93%B1;Clean+Architecture+%7C+BLoC+%7C+Cubit;Firebase+%7C+REST+APIs+%7C+Real-time;Building+apps+users+love+%F0%9F%9A%80" alt="Typing Animation"/>
 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase" />
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=QutaibaQusai&color=02569B&style=flat-square&label=Profile+Views)](https://github.com/QutaibaQusai)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/QutaibaQusai?style=flat-square&color=0175C2&logo=github&label=Followers)](https://github.com/QutaibaQusai?tab=followers)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Available-02569B?style=flat-square)
+
 </div>
 
 ---
 
-### About
+### 👨‍💻 About Me
 
-I build Flutter applications with a focus on **maintainable architecture**, **smooth user experience**, and **reliable delivery**. My day-to-day work is centered around Flutter, Dart, BLoC/Cubit, MVVM, Firebase, REST APIs, and enterprise mobile workflows.
+```dart
+class QutaibaMakahleh extends FlutterEngineer {
 
-I care about code that can survive real product growth: clear feature boundaries, predictable state, reusable widgets, practical error handling, and UI that feels good to use.
+  final String name      = "Qutaiba Makahleh";
+  final String role      = "Flutter Mobile Engineer";
+  final String location  = "Amman, Jordan 🇯🇴";
+
+  final List<String> stack = [
+    "Flutter", "Dart", "Firebase",
+    "BLoC / Cubit", "REST APIs",
+    "Clean Architecture", "SOLID",
+  ];
+
+  final Map<String, String> focus = {
+    "Architecture"  : "Clean · Scalable · Maintainable",
+    "State"         : "BLoC / Cubit",
+    "UI"            : "Responsive · Polished · Smooth",
+    "Backend"       : "Firebase · REST APIs · Real-time",
+    "Code Quality"  : "Testable · Production-ready",
+  };
+
+  final String status = "Open to work · Freelance · Collaboration";
+
+  @override
+  String get quote =>
+    "Write code that your future self will thank you for.";
+}
+```
 
 ---
 
-### Now
-
-| **Working on** | **Focus** |
-| :--- | :--- |
-| **Mobile Developer at MUJEER** | Enterprise Flutter apps, real-time services, AI-enabled features, and scalable product workflows. |
-| **Flutter Architecture** | Clean structure, SOLID principles, BLoC/Cubit state management, and maintainable feature modules. |
-| **Product Quality** | Responsive UI, performance, debugging, empty/error states, and user-first implementation details. |
-
----
-
-### Engineering Profile
-
-| **Area** | **What I Bring** |
-| :--- | :--- |
-| **Mobile Core** | Flutter, Dart, Android, iOS-ready mobile delivery. |
-| **Architecture** | Clean Architecture, MVVM, separation of concerns, reusable UI layers. |
-| **State Management** | BLoC, Cubit, predictable app flows, testable business logic. |
-| **Integrations** | Firebase, REST APIs, real-time data, AI-powered app capabilities. |
-| **UX Engineering** | Polished screens, consistent components, loading/error states, responsive layouts. |
-
----
-
-### Toolkit
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github&theme=light" alt="Flutter, Dart, Firebase, Android Studio, VS Code, Git, and GitHub icons" />
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)
+![BLoC](https://img.shields.io/badge/BLoC_/_Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github&theme=light"/>
+
 </div>
-
----
-
-### Selected Work Themes
-
-| **Theme** | **Impact** |
-| :--- | :--- |
-| **Enterprise Flutter Development** | Delivering production mobile features for business workflows with maintainability and scalability in mind. |
-| **Healthcare Mobile Experience** | Built **Heartful Care**, a Flutter healthcare application using Dart, Firebase, and MVVM architecture. |
-| **AI & Real-Time Features** | Building responsive mobile experiences powered by intelligent features and live data updates. |
 
 ---
 
@@ -75,16 +82,29 @@ I care about code that can survive real product growth: clear feature boundaries
 
 ---
 
-### Connect
+### 💬 Dev Quote
+
+```txt
+"Clean code always looks like it was written by someone who cares."
+                                         — Robert C. Martin
+```
+
+---
+
+### 🤝 Connect
 
 <div align="center">
-  <a href="https://github.com/QutaibaQusai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-QutaibaQusai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/qutaiba-makahleh-142341275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Qutaiba%20Makahleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:qutaiba.makahleh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-qutaiba.makahleh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Qutaiba" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-QutaibaQusai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QutaibaQusai)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qutaiba_Makahleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qutaiba-makahleh-142341275)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qutaiba.makahleh@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⚡ Built with Flutter mindset · Clean Architecture · SOLID principles</sub>
 </div>
