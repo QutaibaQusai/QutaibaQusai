@@ -5,13 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=02569B&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Engineer+%F0%9F%93%B1;Clean+Architecture+%7C+BLoC+%7C+Cubit;Firebase+%7C+REST+APIs+%7C+Real-time;Building+apps+users+love+%F0%9F%9A%80" alt="Typing Animation"/>
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=QutaibaQusai&color=02569B&style=flat-square&label=Profile+Views)](https://github.com/QutaibaQusai)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/QutaibaQusai?style=flat-square&color=0175C2&logo=github&label=Followers)](https://github.com/QutaibaQusai?tab=followers)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Available-02569B?style=flat-square)
 
 </div>
 
@@ -89,22 +82,4 @@ class QutaibaMakahleh extends FlutterEngineer {
                                          — Robert C. Martin
 ```
 
----
 
-### 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-QutaibaQusai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QutaibaQusai)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qutaiba_Makahleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qutaiba-makahleh-142341275)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qutaiba.makahleh@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>⚡ Built with Flutter mindset · Clean Architecture · SOLID principles</sub>
-</div>
